@@ -673,7 +673,7 @@
     <value> Du hast ein Teil deiner Würde wieder bekommen.</value>
   </data>
   <data name="DROP_RATE_CHANGED" xml:space="preserve">
-    <value>Die Drop-Rate wurde erfolgreich geänder</value>
+    <value>Die Drop-Rate wurde erfolgreich geändert</value>
   </data>
   <data name="GOLD_RATE_CHANGED" xml:space="preserve">
     <value>Das goldene Verhältnis wurde erfolgreich geändert</value>
